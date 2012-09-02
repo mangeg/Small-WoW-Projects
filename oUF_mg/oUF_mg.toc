@@ -1,0 +1,10 @@
+## Interface: 40200
+## Title: oUF: mg
+## Author: mangeg
+## Version: 1.0
+## Dependencies: oUF
+## Notes: oUF layout
+
+core.lua
+config.lua
+mg.lua
