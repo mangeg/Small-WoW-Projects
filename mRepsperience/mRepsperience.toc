@@ -1,0 +1,12 @@
+## Interface: 40000
+## Title: m|cffe6b155R|repsperience
+## Notes: Reputation and Experience bars.
+## Author: maangeg
+## SavedVariables: mRepsperienceDB
+
+## OptionalDeps: Ace3, LibBackdrop-1.0, LibSharedMedia-3.0, LibFrameAnchorRegistry-1.0
+
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+
+mRepsperience.lua

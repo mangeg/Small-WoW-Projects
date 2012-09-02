@@ -1,0 +1,6 @@
+## Interface: 40200
+## OptionalDeps: Ace3
+## Version: 0.1
+
+Debug.lua
+LibWPF-1.0.lua
